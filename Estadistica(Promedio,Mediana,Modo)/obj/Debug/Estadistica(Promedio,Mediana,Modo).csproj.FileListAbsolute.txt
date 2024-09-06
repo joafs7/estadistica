@@ -1,0 +1,7 @@
+C:\Users\Joaquin\Source\Repos\estadistica\Estadistica(Promedio,Mediana,Modo)\bin\Debug\Estadistica(Promedio,Mediana,Modo).exe.config
+C:\Users\Joaquin\Source\Repos\estadistica\Estadistica(Promedio,Mediana,Modo)\bin\Debug\Estadistica(Promedio,Mediana,Modo).exe
+C:\Users\Joaquin\Source\Repos\estadistica\Estadistica(Promedio,Mediana,Modo)\bin\Debug\Estadistica(Promedio,Mediana,Modo).pdb
+C:\Users\Joaquin\Source\Repos\estadistica\Estadistica(Promedio,Mediana,Modo)\obj\Debug\Estadistica(Promedio,Mediana,Modo).csproj.AssemblyReference.cache
+C:\Users\Joaquin\Source\Repos\estadistica\Estadistica(Promedio,Mediana,Modo)\obj\Debug\Estadistica(Promedio,Mediana,Modo).csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Source\Repos\estadistica\Estadistica(Promedio,Mediana,Modo)\obj\Debug\Estadistica(Promedio,Mediana,Modo).exe
+C:\Users\Joaquin\Source\Repos\estadistica\Estadistica(Promedio,Mediana,Modo)\obj\Debug\Estadistica(Promedio,Mediana,Modo).pdb
